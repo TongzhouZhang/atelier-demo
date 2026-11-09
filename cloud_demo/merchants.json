@@ -1,0 +1,50 @@
+{
+  "KEY_UNIQLO": {
+    "merchant_name": "优衣库 & 潮流合伙人",
+    "products": {
+      "prod_001": {
+        "name": "经典纯白T恤",
+        "category": "top",
+        "image": "tshirt.png",
+        "fabric": "纯棉针织",
+        "sizes": {
+          "M": {
+            "chest": 96.0,
+            "shoulder": 42.0,
+            "waist": 0,
+            "path": "C:/Users/Public/Documents/Style3D/Asset_2.5/Garment/Male_T-Shirt_M.sgar"
+          },
+          "L": {
+            "chest": 102.0,
+            "shoulder": 44.0,
+            "waist": 0,
+            "path": "C:/Users/Public/Documents/Style3D/Asset_2.5/Garment/Male_T-Shirt_L.sgar"
+          }
+        }
+      },
+      "prod_002": {
+        "name": "高腰阔腿牛仔裤",
+        "category": "pants",
+        "image": "jeans.png",
+        "fabric": "硬挺牛仔",
+        "rise_type": "高腰",
+        "sizes": {
+          "M": {
+            "chest": 0,
+            "waist": 68.0,
+            "hip": 94.0,
+            "length": 102.0,
+            "path": "C:/Users/Public/Documents/Style3D/Asset_2.5/Garment/Male/Man_Pants.sgar"
+          },
+          "L": {
+            "chest": 0,
+            "waist": 72.0,
+            "hip": 98.0,
+            "length": 104.0,
+            "path": "C:/Users/Public/Documents/Style3D/Asset_2.5/Garment/Male/Man_Pants.sgar"
+          }
+        }
+      }
+    }
+  }
+}
